@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 71: Say menuitems and captions may not exist in the same menu.
+    hung "Cứ nói đi bro."
+                     ^
+
+Ren'Py Version: Ren'Py 8.5.3.26051504
+Wed Jun 17 09:06:02 2026
